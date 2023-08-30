@@ -1,3 +1,3 @@
-## Hi there 👋
+## WIP
 
-[WIP](https://github.com/elijah-team/.github/blob/main/README.md)https://github.com/elijah-team/.github/blob/main/README.md
+[WIP](https://github.com/elijah-team/.github/blob/main/README.md)
