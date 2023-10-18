@@ -1,5 +1,9 @@
 ## WIP
 
-[Notes](https://github.com/elijah-team/ema-notes)
+![cowstopsign](https://github.com/elijah-team/.github/assets/50311859/3b47de0e-c685-4ade-ae54-68d27db59c87)
 
-[WIP](https://github.com/elijah-team/.github/blob/main/README.md)
+Listen, I understand[.](http://endofthenet.net/)
+
+* [Ema Notes](https://elijah-team.github.io/ema-notes)
+
+* [WIP](https://github.com/elijah-team/.github/blob/main/README.md)
