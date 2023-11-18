@@ -7,3 +7,6 @@ Listen, I understand[.](http://endofthenet.net/)
 * [Ema Notes](https://elijah-team.github.io/ema-notes)
 
 * [WIP](https://github.com/elijah-team/.github/blob/main/README.md)
+
+* [Project List](https://github.com/elijah-team/spec-docs/blob/main/Projects.md)
+  
