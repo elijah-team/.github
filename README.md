@@ -110,7 +110,7 @@ compiler or toolchain.
 
 Maybe I will write an interpreter "later".
 <!-- You can see the demo interpreter for Carbon on
-[compiler-explorer.com](http://carbon.compiler-explorer.com/). -->
+[compiler-explorer.com](http://elijah.compiler-explorer.com/). -->
 
 We want to better understand whether we can build a language that meets our
 language criteria.
