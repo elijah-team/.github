@@ -18,16 +18,14 @@
 
 ### the ones that are more recent
 
+[automatic-journey](https://github.com/elijah-team/automatic-journey)
+
+[persistent-pancake](https://github.com/elijah-team/persistent-pancake)
+
 [congenial-robot](https://github.com/elijah-team/congenial-robot)
 
 [elevated-potential](https://github.com/elijah-team/elevated-potential)
 
-[persistent-pancake](https://github.com/elijah-team/persistent-pancake)
-
-[prolific-remnant](https://github.com/elijah-team/prolific-remnant)
-
-### the underrepresented
-
-[diminished-pacer](https://github.com/elijah-team/diminished-pacer)
+### the one that was supposed to have clojure
 
 [fantastic-giggle](https://github.com/elijah-team/fantastic-giggle)
