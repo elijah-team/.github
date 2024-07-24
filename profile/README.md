@@ -14,6 +14,10 @@
 
 * [Ema Notes Repo](https://github.com/elijah-team/ema-notes)
 
+* [Spec Docs](https://github.com/elijah-team/spec-docs)
+
+* [Petal to the Medal](https://github.com/elijah-team/petal-to-the-medal)
+
 ---
 
 ### the ones that are more recent
