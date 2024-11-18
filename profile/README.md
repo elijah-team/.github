@@ -1,4 +1,4 @@
-## Elijah - new page, same ol' failing CI
+## Elijah - new page, same ol' failing CI*
 
 ### Rationale
 
@@ -22,7 +22,7 @@
 
 ### the ones that are more recent
 
-[automatic-journey](https://github.com/elijah-team/automatic-journey)
+[radical-paradox](https://github.com/elijah-team/radical-paradox)
 
 [persistent-pancake](https://github.com/elijah-team/persistent-pancake)
 
