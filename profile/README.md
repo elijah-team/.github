@@ -2,13 +2,13 @@
 
 ### Documentation
 
-* [Ema Notes Site](https://elijah-team.github.io/ema-notes)
+* [Ema Notes](https://elijah-team.github.io/ema-notes)
 
-* [Ema Notes Repo](https://github.com/elijah-team/ema-notes)
+* [Elijah Notes](https://elijah-team.github.io/elijah-notes/)
 
-* [Spec Docs](https://github.com/elijah-team/spec-docs)
+* [Spec Docs](https://elijah-team.github.io/spec-docs/)
 
-* [Petal to the Medal](https://github.com/elijah-team/petal-to-the-medal)
+* [Petal to the Medal](https://elijah-team.github.io/petal-to-the-medal/)
 
 ### the ones that probably should go forward
 
