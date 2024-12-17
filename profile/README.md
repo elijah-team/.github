@@ -1,12 +1,4 @@
-## Elijah - new page, same ol' failing CI*
-
-### Rationale
-
-* [Stolen Carbon Docs](https://github.com/elijah-team/.github/blob/main/README.md)
-
-### Project List
-
-* [Project List](https://github.com/elijah-team/spec-docs/blob/main/Projects.md)
+## Elijah Language
 
 ### Documentation
 
@@ -18,13 +10,13 @@
 
 * [Petal to the Medal](https://github.com/elijah-team/petal-to-the-medal)
 
----
-
-### the ones that are more recent
+### the ones that probably should go forward
 
 [radical-paradox](https://github.com/elijah-team/radical-paradox)
 
 [persistent-pancake](https://github.com/elijah-team/persistent-pancake)
+
+### the ones that are kind of experimental
 
 [congenial-robot](https://github.com/elijah-team/congenial-robot)
 
