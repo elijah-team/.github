@@ -6,8 +6,6 @@
 
 * [Elijah Notes](https://elijah-team.github.io/elijah-notes/)
 
-* [Spec Docs](https://elijah-team.github.io/spec-docs/)
-
 * [Petal to the Medal](https://elijah-team.github.io/petal-to-the-medal/)
 
 ### the ones that probably should go forward
