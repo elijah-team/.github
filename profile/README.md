@@ -14,7 +14,7 @@
 
 [persistent-pancake](https://github.com/elijah-team/persistent-pancake)
 
-### the ones that are kind of experimental
+### the ones that will be combined and recombobulated
 
 [congenial-robot](https://github.com/elijah-team/congenial-robot)
 
@@ -23,3 +23,17 @@
 ### the one that was supposed to have clojure
 
 [fantastic-giggle](https://github.com/elijah-team/fantastic-giggle)
+
+### too lazy for links
+
+aj is a separate project
+
+witheve/concordion (i suspect you knew all along, if you didnt why are you here)
+
+### todo 
+
+fix my code
+
+delete pretty much all of this
+
+stop trying to be funny
