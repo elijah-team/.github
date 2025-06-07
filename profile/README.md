@@ -59,4 +59,8 @@ manifold may still be ok
 - automate this: i dont like web editors, monaco notwithstanding (makes me a strange(/bad?) person)
 - fighting with mal: This is the most confusing thing in the world (tldr javascript wrt el->mal->scalajs/kotlinjs/cljs/teavm)
 - procrasting about mb;ecj;psi;;...
-  
+- 4g requires alot (forgot what this means)
+- rasp-pi (gmta)
+- documenting automerge (re elijah mal)
+- ...
+
