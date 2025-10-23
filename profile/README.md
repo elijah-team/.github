@@ -16,9 +16,11 @@
 
 ### the one that i lost track of
 
-[automatic-journey](https://github.com/elijah-tng/radical-paradox2)
+[automatic-journey-tng](https://github.com/elijah-tng/automatic-journey-tng)
 
-### the ones that will be combined and recombobulated
+[automatic-journey](https://github.com/elijah-team/automatic-journey)
+
+### the ones that i am combining the wrong way
 
 [congenial-robot](https://github.com/elijah-team/congenial-robot)
 
@@ -30,37 +32,45 @@
 
 - nts: steal g/interconnect/"fluffy" from here; put kit here too
 
-### external ones that generally make me feel stupid about necromancing 
+
+### these guys did some cool stuff
 
 - witheve
-- concordion 
+- concordion
+- (the sidebar thing)
+
 
 ### todo 
 
 fix my code
 
-tldr: operation delete as many branches as you can (that's a nice one)
+delete as many branches as possible
 
-stop trying to be funny, while simultaneously making people laugh
+automate more things
+
 
 ### you cannot fight clojure
 
 malli was the one i forgot
+reitit was the one i was thinking of when i forgot the other one
 manifold may still be ok
-(i cant make devvcards work)
+(i cant make devcards work)
+
 
 ### you will not learn javascript
 
 - container2wasm
 - let that be it
 
-### unorganized blather
 
-- automate this: i dont like web editors, monaco notwithstanding (makes me a strange(/bad?) person)
-- fighting with mal: This is the most confusing thing in the world (tldr javascript wrt el->mal->scalajs/kotlinjs/cljs/teavm)
-- procrasting about mb;ecj;psi;;...
-- 4g requires alot (forgot what this means)
-- rasp-pi (gmta)
-- documenting automerge (re elijah mal)
-- ...
+### quick points
+
+- monaco
+- mal (esp js version)
+- teavm vs phantom/kotlinjs/sclajc/cljs/?
+- elixir (duh)
+- javascript wrt el->mal->scalajs/kotlinjs/cljs/teavm
+- workbench plugins: procrasting about mb;ecj;psi;;...;;modeling too
+- documenting automerge
+
 
