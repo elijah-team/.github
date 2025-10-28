@@ -37,7 +37,8 @@
 
 - witheve
 - concordion
-- (the sidebar thing)
+- (the sidebar thing: hypothesis?)
+- msl (site down...) + john (in c#)
 
 
 ### todo 
@@ -67,8 +68,9 @@ manifold may still be ok
 
 - monaco
 - mal (esp js version)
-- teavm vs phantom/kotlinjs/sclajc/cljs/?
-- elixir (duh)
+- teavm vs fantom/[holograph](https://www.holograph.so/)/kotlinjs/sclajc/cljs/?
+- elixir (duh, but out of scope for fluffy (fluffy == java))
+- if elixir then roc, zig, ?
 - javascript wrt el->mal->scalajs/kotlinjs/cljs/teavm
 - workbench plugins: procrasting about mb;ecj;psi;;...;;modeling too
 - documenting automerge
