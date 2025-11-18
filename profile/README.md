@@ -2,8 +2,6 @@
 
 ### Documentation
 
-* [Ema Notes](https://elijah-team.github.io/ema-notes)
-
 * [Elijah Notes](https://elijah-team.github.io/elijah-notes/)
 
 * [Petal to the Medal](https://elijah-team.github.io/petal-to-the-medal/)
