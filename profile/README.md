@@ -12,8 +12,6 @@
 
 [radical-paradox](https://github.com/elijah-team/radical-paradox)
 
-[persistent-pancake](https://github.com/elijah-team/persistent-pancake)
-
 ### the one that i lost track of
 
 [automatic-journey-tng](https://github.com/elijah-tng/automatic-journey-tng)
@@ -30,15 +28,11 @@
 
 [fantastic-giggle](https://github.com/elijah-team/fantastic-giggle)
 
-- nts: steal g/interconnect/"fluffy" from here; put kit here too
-
 
 ### these guys did some cool stuff
 
 - witheve
 - concordion
-- (the sidebar thing: hypothesis?)
-- msl (site down...) + john (in c#)
 
 
 ### todo 
@@ -47,32 +41,30 @@ fix my code
 
 delete as many branches as possible
 
-automate more things
+automate more things (make ci great again)
 
 
 ### you cannot fight clojure
 
-malli was the one i forgot
-reitit was the one i was thinking of when i forgot the other one
+malli/reitit (pretend model-mapper; this is going to be too much fun - will need help in 3 months)
 manifold may still be ok
 (i cant make devcards work)
+you might want to think about mal
+you might want to remove abcl?
 
 
-### you will not learn javascript
+### you will _not_ learn javascript
 
 - container2wasm
-- let that be it
 
 
 ### quick points
 
 - monaco
-- mal (esp js version)
-- teavm vs fantom/[holograph](https://www.holograph.so/)/kotlinjs/sclajc/cljs/?
-- elixir (duh, but out of scope for fluffy (fluffy == java))
-- if elixir then roc, zig, ?
-- javascript wrt el->mal->scalajs/kotlinjs/cljs/teavm
-- workbench plugins: procrasting about mb;ecj;psi;;...;;modeling too
-- documenting automerge
+- mal (make it pretty)
+- teavm vs fantom/kotlinjs/sclajc/cljs/?
+- workbench plugins: procrastinating about mb;ecj;psi;;...;;modeling too
+- documenting auto-merge
+
 
 
