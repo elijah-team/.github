@@ -35,20 +35,18 @@
 
 ### todo 
 
-fix my code
-
-delete as many branches as possible
-
-automate more things (make ci great again)
+- fix my code
+- delete as many branches as possible
+- automate more things (make ci great again)
 
 
 ### you cannot fight clojure
 
-malli/reitit (pretend model-mapper; this is going to be too much fun - will need help in 3 months)
-manifold may still be ok
-(i cant make devcards work)
-you might want to think about mal
-you might want to remove abcl?
+- malli/reitit (pretend model-mapper; this is going to be too much fun - will need help in 3 months)
+- manifold may still be ok
+- (i cant make devcards work)
+- you might want to think about mal
+- you might want to remove abcl?
 
 
 ### you will _not_ learn javascript
@@ -65,4 +63,9 @@ you might want to remove abcl?
 - documenting auto-merge
 
 
+### me
+
+* [Elijah Notes](https://github.com/elijah-team/elijah-notes/)
+
+* [Petal to the Medal](https://github.com/elijah-team/petal-to-the-medal/)
 
