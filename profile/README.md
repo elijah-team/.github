@@ -37,12 +37,12 @@
 
 - fix my code
 - delete as many branches as possible
-- automate more things (make ci great again)
+- automate more things
 
 
 ### you cannot fight clojure
 
-- malli/reitit (pretend model-mapper; this is going to be too much fun - will need help in 3 months)
+- malli/reitit (model-mapper transforms)
 - manifold may still be ok
 - (i cant make devcards work)
 - you might want to think about mal
