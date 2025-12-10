@@ -16,16 +16,3 @@
 [congenial-robot](https://github.com/elijah-team/congenial-robot)
 
 [elevated-potential](https://github.com/elijah-tng/elevated-potential)
-
-
-### (sorry...)
-
-- container2wasm
-- monaco/mal
-
-
-### me
-
-* [Elijah Notes](https://github.com/elijah-team/elijah-notes/)
-
-* [Petal to the Medal](https://github.com/elijah-team/petal-to-the-medal/)
