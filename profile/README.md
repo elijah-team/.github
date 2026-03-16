@@ -20,4 +20,4 @@
 
 ### Purpose
 
-We are public to build things from jitpack.
+We are not quite ready for the public.
