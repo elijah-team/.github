@@ -21,3 +21,10 @@
 ### Purpose
 
 We are not quite ready for the public.
+
+
+### Introspection
+
+The token problem, and it's not the avatar, as well it should not be.
+Should hopefully be able to come back with a finished product.
+We'll see.
