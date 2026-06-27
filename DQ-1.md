@@ -27,3 +27,12 @@ Full Dynamic Capabilities:
 
 
 also: https://github.com/dcevm/dcevm/issues/164
+
+
+---
+
+not only does google confirm my suspicion as correct, it also contradicts itself in it's response,
+confirming my initial suspicion.
+
+the observation is that ai responds eerily like a human in multiple respects, but im not smart enough
+to remember what this is called.
