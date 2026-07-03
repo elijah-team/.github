@@ -20,4 +20,9 @@
 
 ### Purpose
 
-We are quite not ready for the public.
+To provide a consistent lanaguage to rewrite traditional admin scripts
+and a general purpose language to forward maintain application code.
+
+### Readiness statement (aka maturity) 
+
+We are not quite ready for the public.
